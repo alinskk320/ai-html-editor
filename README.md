@@ -16,7 +16,7 @@
 - 🤖 **AI 对话式重构**：选中单个组件，让 AI 按你的要求继续修改
 - 👀 **所见即所得**：一边预览一边反复调整，直到满意为止
 - 📥 **一键导出成品**：最终导出修改后的完美 HTML 文件
-<img width="1910" height="929" alt="image" src="https://github.com/user-attachments/assets/7214f42f-3d7d-4342-8ffe-93e5b5495fa1" />
+
 
 
 
